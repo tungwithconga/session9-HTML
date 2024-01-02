@@ -1,0 +1,12 @@
+.fade {
+    text-align: center;
+    width:200px;
+    height: 100px;
+    background-color: rgb(148, 143, 143);
+    color:rgb(248, 251, 250);
+    font-weight: bold;
+    transition: all 1s;
+}
+.fade:hover{
+    background-color: rgb(33, 33, 34);
+}

@@ -1,0 +1,15 @@
+.fade{
+    text-align: center;
+    font-size: medium;
+    width: 200px;
+    height: 150px;
+    background-color: gray;
+    color: aliceblue;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transition:all 1s;
+}
+.fade:hover{
+    width: 300px;
+    height: 250px;
+}
